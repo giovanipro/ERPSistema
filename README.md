@@ -7,6 +7,7 @@ Sistema ERP básico desenvolvido para controle de mercados, com funcionalidades 
 ## Descrição do Projeto
 
 Este projeto foi desenvolvido em C# utilizando Visual Studio. O sistema foi criado com o objetivo de automatizar processos básicos de gestão em mercados.
+Atenção, Para Fazer Login no ERP, digite o Usuário: Admin e a Senha: 123.
 
 ---
 
