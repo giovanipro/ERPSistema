@@ -1,0 +1,17 @@
+# Pastas padrão do Visual Studio / C# que não devem ser versionadas
+bin/
+obj/
+.vs/
+
+# Pasta grande do seu projeto com banco de dados e arquivos pesados
+ERPSistema/Database/
+
+# Arquivos de build e executáveis (caso queira ignorar)
+*.exe
+*.dll
+
+# Outros arquivos temporários
+*.user
+*.suo
+*.cache
+*.log
