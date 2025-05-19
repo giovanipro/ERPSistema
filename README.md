@@ -6,8 +6,10 @@ Sistema ERP básico desenvolvido para controle de mercados, com funcionalidades 
 
 ## Descrição do Projeto
 
-Este projeto foi desenvolvido em C# utilizando Visual Studio. O sistema foi criado com o objetivo de automatizar processos básicos de gestão em mercados.
 Atenção, Para Fazer Login no ERP, digite o Usuário: Admin e a Senha: 123.
+Execute o Script Database.sql, criando assim o banco de dados database em MySQL. O link está aqui: (https://drive.google.com/drive/folders/1zA3Nq2lag3AEmvMWIbgz44yFeIzEyi-M?usp=drive_link)
+Defina o Usuario da Instância MySQL como root e a senha vazia "" na porta 3306.
+Este projeto foi desenvolvido em C# utilizando Visual Studio. O sistema foi criado com o objetivo de automatizar processos básicos de gestão em mercados.
 
 ---
 
@@ -43,7 +45,7 @@ Você pode baixar o arquivo no link abaixo:
 
 Além do executável, o código-fonte completo do projeto está disponível para download, incluindo todos os arquivos necessários para desenvolvimento e manutenção.
 
-[Link para o código-fonte completo no Google Drive](https://drive.google.com/drive/folders/1zA3Nq2lag3AEmvMWIbgz44yFeIzEyi-M?usp=drive_link)
+[Link para o código-fonte completo no Google Drive](https://drive.google.com/file/d/1ZlHeoUwzDXJYbqD6Q7kFqYN1M5nAztUw/view?usp=drive_link)
 
 ---
 
